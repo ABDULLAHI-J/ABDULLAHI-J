@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABDULLAHI-J
-- 👀 I’m interested in front-end web development.
+- 👀 I’m a front-end web development.
 - 🌱 I’m currently A front-end web development.
 - 💞️ I’m looking to collaborate on opensource projects 
 - 📫 How to reach me ... 👇
